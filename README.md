@@ -1,2 +1,3 @@
-# bitpills.com.br
-Conteúdos para quem se interessa por Bitcoin, Economia, Política e Tecnologia.
+# [bitpills.com.br](http://bitpills.com.br/)
+
+O [BitPills](http://bitpills.com.br/) é o ponto de encontro para interessados em Bitcoin, Economia, Política e Tecnologia, destinado a debates e troca de conhecimentos por meio de publicações e comentários criados pelos próprios usuários.

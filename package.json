@@ -1,7 +1,7 @@
 {
   "name": "bitpills.com.br",
   "version": "1.0.0",
-  "description": "Conteúdos para quem se interessa por Bitcoin, Economia, Política e Tecnologia.",
+  "description": "Conteúdos para quem se interessa por Bitcoin, Economia e Tecnologia.",
   "main": "index.js",
   "scripts": {
     "dev": "npm run services:up && next dev",
